@@ -1,0 +1,23 @@
+# Obsidian
+.obsidian/
+
+
+# Private historical materials
+raw/
+private/
+docs/
+experiments/
+requirements/
+
+
+# Secrets
+.env
+.env.*
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
